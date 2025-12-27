@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "faker-ai"
-version = "0.1.0"
+version = "1.0.0"
 description = "Faker provider for generating AI/ML-related fake data"
 readme = "README.md"
 license = {text = "MIT"}
