@@ -1,4 +1,4 @@
-# faker-ai
+# faker-ai-provider
 
 Faker provider for generating AI/ML-related fake data.
 
